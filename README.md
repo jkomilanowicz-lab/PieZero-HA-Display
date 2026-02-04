@@ -290,6 +290,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgments
 
+- Inspired by [Pi-Dashboard](https://github.com/TechTalkies/Pi-Dashboard) by TechTalkies - the original concept that started it all
 - Weather icons adapted from [WeatherPi_TFT](https://github.com/LoveBootCaptain/WeatherPi_TFT) by LoveBootCaptain
 - [Poppins](https://fonts.google.com/specimen/Poppins) font by Indian Type Foundry
 - Built for integration with [Home Assistant](https://www.home-assistant.io/)

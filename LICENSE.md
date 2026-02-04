@@ -19,6 +19,11 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ## Third-Party Licenses and Attributions
 
+### Project Inspiration
+This project was inspired by [Pi-Dashboard](https://github.com/TechTalkies/Pi-Dashboard) by TechTalkies. Their work provided the foundational concept for building a Raspberry Pi-based Home Assistant display.
+
+---
+
 ### Weather Icons
 Weather icons adapted from [WeatherPi_TFT](https://github.com/LoveBootCaptain/WeatherPi_TFT) by LoveBootCaptain.
 
